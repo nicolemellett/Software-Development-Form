@@ -1,0 +1,73 @@
+body {
+    font-family: Verdana;
+    background-color: #FAF9F6;
+    color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: groove;
+    padding: 10px;
+    font-size: larger;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+p1{
+    font-weight: bold;
+}
+
+input {
+    width: 30%;
+    height: 20px;
+    border: 2px solid #ada8ac;
+    border-radius: 5px;
+    font-size: medium;
+    background-color: white;
+}
+
+#age {
+    width: 5%
+}
+
+#dateofbirth {
+    width: 10%;
+}
+
+button {
+    background-color: white;
+    border: 2px white;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 25px;
+    width: 5%
+}
+
+#submit {
+    background-color: #fb9bcb;
+    border: #fb9bcb;
+    font-size: 20px;
+    color: white;
+    width: 25%;
+    height: 40%;
+}
+
+
+
+input[name=dateofbirth] {
+    width: 10%;
+    border: 2px solid #ada8ac;
+    border-radius: 5px;
+}
+
+select {
+    width: 20%;
+    border: 2px #ada8ac;
+    border-radius: 5px;
+    background-color: white;
+    font-size: medium;
+}
+
